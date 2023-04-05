@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-ej%2F&count_bg=%230087df&title_bg=%2300ebff&icon=&icon_color=%23#00ebff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+</div>
