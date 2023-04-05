@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-## 🔨 Once I've used 🔨
+## 🔨 I can use 🔨
 <div style="display:flex; flex-direction:row;">
 
 #### Data Science
