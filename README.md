@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+## About me ##
+I'm currently majoring *Statistics & Data Science* in Dongguk University.     
+And I also graduated *Computer Information* before.   
+📫 ejchoi0710@gmail.com    
+I studied various field of programming from Front-end, Back-end to Data visualization and analysys    
+And now, Interested in **Time Series, Vision, Machine Learning Model Optimization**  
 
 ## 🔨 I can use 🔨
 <div style="display:flex; flex-direction:row;">
